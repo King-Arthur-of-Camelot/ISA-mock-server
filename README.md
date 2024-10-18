@@ -1,6 +1,7 @@
 # ISA-mock-server
 
 run the server with `sudo python3 mock_server.py test_case_num`
+
 connect to the server `./imapcl 127.0.0.2 -a login.txt -o msgs`
 
 ## Test cases
